@@ -1,0 +1,97 @@
+@startuml
+
+namespace FreaKeyLogger {
+
+    class FiltruLogs {
+        - string Path2txt
+        + FiltruLogs()
+        + string Filtrare_Text()
+        - static string GetLogPath()
+    }
+
+    class Log {
+        - string textWritten
+        - string processName
+        - string time
+        + Log(processName: string, time: string)
+        + TextWritten: string
+        + toString(): string
+    }
+
+    FiltruLogs ..> Log : creates
+
+    class Program {
+        + Main()
+    }
+
+    Program ..> Form1 : creates
+
+    class ProcessMonitor {
+        - List<Observer> _observers
+        - List<string> ProcessList
+        - List<string> RemovedProcesses
+        - string activeProcess
+        + Run()
+        + RunThread()
+        + addObserver(observer: Observer)
+        + GetProcesses(): List<string>
+        - UpdateActiveProcess()
+        - UpdateProcessList()
+    }
+
+    ProcessMonitor ..> Observer : uses
+
+    class ActivitySaver {
+        - List<Log> _logs
+        - keyLogger _keyLogger
+        - string _activeProcess
+        + ActivitySaver()
+        + Update(newActiveProcess: string)
+        + Stop()
+        + GetLogs(): string
+        - AppendToFile(filePath: string, content: string)
+    }
+
+    ActivitySaver ..> Log : contains
+    ActivitySaver ..> keyLogger : uses
+
+    interface Observer {
+        + Update(newActiveProcess: string)
+    }
+
+    class Form1 {
+        - ProcessMonitor monitor
+        - ActivitySaver saver
+        - Thread monitorThread
+        - List<string> processes
+        + Run()
+        + UpdateComboBox()
+        + OnExit(sender: object, e: EventArgs)
+        + Form1()
+        + Form_Load(sender: object, e: EventArgs)
+        + Form_Closing(sender: object, e: FormClosingEventArgs)
+        + buttonExit_Click(sender: object, e: EventArgs)
+        + buttonSync_Click(sender: object, e: EventArgs)
+    }
+
+    Form1 ..> ProcessMonitor : uses
+    Form1 ..> ActivitySaver : uses
+    
+    class keyLogger {
+        - string text
+        - bool isRunning
+        - Thread keyLoggerThread
+        - FiltruLogs filter
+        - HashSet<Keys> pressedKeys
+        + keyLogger()
+        + Start()
+        + Stop()
+        + Run()
+        + KeyPressed()
+        + GetText(): string
+    }
+  
+  keyLogger ..> FiltruLogs : uses
+}
+
+@enduml

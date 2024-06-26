@@ -1,0 +1,8 @@
+Key: A 
+Key: OemMinus 
+Key: Oemplus 
+Key: Oem5 
+Key: Oem7 
+Key: C 
+Key: D5 
+Key: Oem6 

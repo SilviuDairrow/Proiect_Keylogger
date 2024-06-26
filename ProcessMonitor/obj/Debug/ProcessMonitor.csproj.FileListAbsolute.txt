@@ -1,0 +1,33 @@
+D:\facultate\IP\proiect\KeyLogger v2\ProcessMonitor\bin\Debug\ProcessMonitor.pdb
+D:\facultate\IP\proiect\KeyLogger v2\ProcessMonitor\bin\Debug\KeyLogger.pdb
+D:\facultate\IP\proiect\KeyLogger v2\ProcessMonitor\obj\Debug\ProcessMonitor.csproj.AssemblyReference.cache
+D:\facultate\IP\proiect\KeyLogger v2\ProcessMonitor\obj\Debug\ProcessMonitor.csproj.CoreCompileInputs.cache
+D:\facultate\IP\proiect\KeyLogger v2\ProcessMonitor\obj\Debug\ProcessMonitor.pdb
+D:\facultate\IP\proiect\KeyLogger v2\ProcessMonitor\bin\Debug\ProcessMonitor.dll.config
+D:\facultate\IP\proiect\KeyLogger v2\ProcessMonitor\bin\Debug\ProcessMonitor.dll
+D:\facultate\IP\proiect\KeyLogger v2\ProcessMonitor\bin\Debug\KeyLogger.dll
+D:\facultate\IP\proiect\KeyLogger v2\ProcessMonitor\bin\Debug\KeyLogger.dll.config
+D:\facultate\IP\proiect\KeyLogger v2\ProcessMonitor\obj\Debug\ProcessMonitor.dll
+D:\facultate\IP\proiect\KeyLogger v2\ProcessMonitor\obj\Debug\processM.5329390C.Up2Date
+D:\FACULTATE_AC\Anul III Semestrul II\IP\keyloggerdll\KeyLogger v2\ProcessMonitor\bin\Debug\ProcessMonitor.dll.config
+D:\FACULTATE_AC\Anul III Semestrul II\IP\keyloggerdll\KeyLogger v2\ProcessMonitor\bin\Debug\ProcessMonitor.dll
+D:\FACULTATE_AC\Anul III Semestrul II\IP\keyloggerdll\KeyLogger v2\ProcessMonitor\bin\Debug\ProcessMonitor.pdb
+D:\FACULTATE_AC\Anul III Semestrul II\IP\keyloggerdll\KeyLogger v2\ProcessMonitor\bin\Debug\KeyLogger.dll
+D:\FACULTATE_AC\Anul III Semestrul II\IP\keyloggerdll\KeyLogger v2\ProcessMonitor\bin\Debug\KeyLogger.pdb
+D:\FACULTATE_AC\Anul III Semestrul II\IP\keyloggerdll\KeyLogger v2\ProcessMonitor\bin\Debug\KeyLogger.dll.config
+D:\FACULTATE_AC\Anul III Semestrul II\IP\keyloggerdll\KeyLogger v2\ProcessMonitor\obj\Debug\processMonitor.csproj.AssemblyReference.cache
+D:\FACULTATE_AC\Anul III Semestrul II\IP\keyloggerdll\KeyLogger v2\ProcessMonitor\obj\Debug\processMonitor.csproj.CoreCompileInputs.cache
+D:\FACULTATE_AC\Anul III Semestrul II\IP\keyloggerdll\KeyLogger v2\ProcessMonitor\obj\Debug\processMonitor.csproj.CopyComplete
+D:\FACULTATE_AC\Anul III Semestrul II\IP\keyloggerdll\KeyLogger v2\ProcessMonitor\obj\Debug\ProcessMonitor.dll
+D:\FACULTATE_AC\Anul III Semestrul II\IP\keyloggerdll\KeyLogger v2\ProcessMonitor\obj\Debug\ProcessMonitor.pdb
+C:\Users\maxst\Documents\Proiect IP 2024\Keylogger seara asta\KeyLogger v2\ProcessMonitor\bin\Debug\ProcessMonitor.dll.config
+C:\Users\maxst\Documents\Proiect IP 2024\Keylogger seara asta\KeyLogger v2\ProcessMonitor\bin\Debug\ProcessMonitor.dll
+C:\Users\maxst\Documents\Proiect IP 2024\Keylogger seara asta\KeyLogger v2\ProcessMonitor\bin\Debug\ProcessMonitor.pdb
+C:\Users\maxst\Documents\Proiect IP 2024\Keylogger seara asta\KeyLogger v2\ProcessMonitor\bin\Debug\KeyLogger.dll
+C:\Users\maxst\Documents\Proiect IP 2024\Keylogger seara asta\KeyLogger v2\ProcessMonitor\bin\Debug\KeyLogger.pdb
+C:\Users\maxst\Documents\Proiect IP 2024\Keylogger seara asta\KeyLogger v2\ProcessMonitor\bin\Debug\KeyLogger.dll.config
+C:\Users\maxst\Documents\Proiect IP 2024\Keylogger seara asta\KeyLogger v2\ProcessMonitor\obj\Debug\processMonitor.csproj.AssemblyReference.cache
+C:\Users\maxst\Documents\Proiect IP 2024\Keylogger seara asta\KeyLogger v2\ProcessMonitor\obj\Debug\processMonitor.csproj.CoreCompileInputs.cache
+C:\Users\maxst\Documents\Proiect IP 2024\Keylogger seara asta\KeyLogger v2\ProcessMonitor\obj\Debug\processM.5329390C.Up2Date
+C:\Users\maxst\Documents\Proiect IP 2024\Keylogger seara asta\KeyLogger v2\ProcessMonitor\obj\Debug\ProcessMonitor.dll
+C:\Users\maxst\Documents\Proiect IP 2024\Keylogger seara asta\KeyLogger v2\ProcessMonitor\obj\Debug\ProcessMonitor.pdb

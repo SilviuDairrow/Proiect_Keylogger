@@ -1,0 +1,21 @@
+D:\facultate\IP\proiect\KeyLogger v2\KeyLogger\bin\Debug\KeyLogger.pdb
+D:\facultate\IP\proiect\KeyLogger v2\KeyLogger\obj\Debug\KeyLogger.csproj.AssemblyReference.cache
+D:\facultate\IP\proiect\KeyLogger v2\KeyLogger\obj\Debug\KeyLogger.csproj.CoreCompileInputs.cache
+D:\facultate\IP\proiect\KeyLogger v2\KeyLogger\obj\Debug\KeyLogger.pdb
+D:\facultate\IP\proiect\KeyLogger v2\KeyLogger\bin\Debug\KeyLogger.dll.config
+D:\facultate\IP\proiect\KeyLogger v2\KeyLogger\bin\Debug\KeyLogger.dll
+D:\facultate\IP\proiect\KeyLogger v2\KeyLogger\obj\Debug\KeyLogger.dll
+D:\FACULTATE_AC\Anul III Semestrul II\IP\keyloggerdll\KeyLogger v2\KeyLogger\bin\Debug\KeyLogger.dll.config
+D:\FACULTATE_AC\Anul III Semestrul II\IP\keyloggerdll\KeyLogger v2\KeyLogger\bin\Debug\KeyLogger.dll
+D:\FACULTATE_AC\Anul III Semestrul II\IP\keyloggerdll\KeyLogger v2\KeyLogger\bin\Debug\KeyLogger.pdb
+D:\FACULTATE_AC\Anul III Semestrul II\IP\keyloggerdll\KeyLogger v2\KeyLogger\obj\Debug\KeyLogger.csproj.AssemblyReference.cache
+D:\FACULTATE_AC\Anul III Semestrul II\IP\keyloggerdll\KeyLogger v2\KeyLogger\obj\Debug\KeyLogger.csproj.CoreCompileInputs.cache
+D:\FACULTATE_AC\Anul III Semestrul II\IP\keyloggerdll\KeyLogger v2\KeyLogger\obj\Debug\KeyLogger.dll
+D:\FACULTATE_AC\Anul III Semestrul II\IP\keyloggerdll\KeyLogger v2\KeyLogger\obj\Debug\KeyLogger.pdb
+C:\Users\maxst\Documents\Proiect IP 2024\Keylogger seara asta\KeyLogger v2\KeyLogger\bin\Debug\KeyLogger.dll.config
+C:\Users\maxst\Documents\Proiect IP 2024\Keylogger seara asta\KeyLogger v2\KeyLogger\bin\Debug\KeyLogger.dll
+C:\Users\maxst\Documents\Proiect IP 2024\Keylogger seara asta\KeyLogger v2\KeyLogger\bin\Debug\KeyLogger.pdb
+C:\Users\maxst\Documents\Proiect IP 2024\Keylogger seara asta\KeyLogger v2\KeyLogger\obj\Debug\KeyLogger.csproj.AssemblyReference.cache
+C:\Users\maxst\Documents\Proiect IP 2024\Keylogger seara asta\KeyLogger v2\KeyLogger\obj\Debug\KeyLogger.csproj.CoreCompileInputs.cache
+C:\Users\maxst\Documents\Proiect IP 2024\Keylogger seara asta\KeyLogger v2\KeyLogger\obj\Debug\KeyLogger.dll
+C:\Users\maxst\Documents\Proiect IP 2024\Keylogger seara asta\KeyLogger v2\KeyLogger\obj\Debug\KeyLogger.pdb
